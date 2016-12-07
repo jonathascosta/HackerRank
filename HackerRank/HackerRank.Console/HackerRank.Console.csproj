@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Implementation\DesignerPdfViewer.cs" />
+    <Compile Include="Algorithms\Implementation\MiniMaxSum.cs" />
+    <Compile Include="IChallengeSolver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
