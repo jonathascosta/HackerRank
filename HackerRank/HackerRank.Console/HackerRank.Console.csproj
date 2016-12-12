@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\GraphTheory\JourneyToTheMoon.cs" />
+    <Compile Include="Algorithms\Implementation\AppleAndOrange.cs" />
     <Compile Include="Algorithms\Implementation\DesignerPdfViewer.cs" />
     <Compile Include="Algorithms\Implementation\MiniMaxSum.cs" />
+    <Compile Include="Algorithms\Warmup\CircularArrayRotation.cs" />
+    <Compile Include="Algorithms\Warmup\CompareTheTriplets.cs" />
     <Compile Include="IChallengeSolver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

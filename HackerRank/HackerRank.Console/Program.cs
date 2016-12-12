@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HackerRank.Console.Algorithms.GraphTheory;
 using HackerRank.Console.Algorithms.Implementation;
 
 namespace HackerRank.Console
@@ -13,7 +14,7 @@ namespace HackerRank.Console
         {
             IChallengeSolver challengeSolver;
 
-            challengeSolver = new DesignerPdfViewer();
+            challengeSolver = new JourneyToTheMoon();
 
             challengeSolver.Solve();
         }
